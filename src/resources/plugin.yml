@@ -1,0 +1,8 @@
+name: SpecialtyChests
+main: SpecialtyChests.SpecialtyChestsMain
+version: 1.0.0
+author: Minotorious
+team:
+description: "Specialty Chests Plugin"
+license:
+website:
